@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BizBoard MA-Rechner
 // @namespace    Apo & Onur
-// @version      26.0
+// @version      27.0
 // @description  Mitarbeiter-Kapazitätsrechner (V26.0: Fix Header-Position/Zeitleiste, Schicht-Zeitleiste, mit/ohne Pause, Schwellenwert ohne Limit)
 // @author       Apo & Onur
 // @match        https://bizboard.post.ch/panel*
@@ -376,7 +376,7 @@
             tooltip.innerHTML = `
                 <div class="ma-author-tooltip-title">BizBoard MA-Rechner</div>
                 <div class="ma-author-tooltip-text"><b>Version:</b> 17.0</div>
-                <div class="ma-author-tooltip-text"><b>Entwickler:</b> Apo & Onur</div>
+                <div class="ma-author-tooltip-text"><b>Entwickler:</b> Apo</div>
                 <div class="ma-author-tooltip-text"><b>Kontakt:</b> E-Mail auf Anfrage</div>
             `;
             document.body.appendChild(tooltip);
