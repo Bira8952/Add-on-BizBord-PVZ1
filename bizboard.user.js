@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BizBoard
 // @namespace    Apo & Onur
-// @version      26.0
+// @version      27.0
 // @description  Mitarbeiter-Kapazitätsrechner (V26.0: Fix Header-Position/Zeitleiste, Schicht-Zeitleiste, mit/ohne Pause, Schwellenwert ohne Limit)
 // @author       Apo & Onur
 // @match        https://bizboard.post.ch/panel?panelId=verzollung&secret=1234
