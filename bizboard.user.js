@@ -1,14 +1,12 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         BizBoard MA-Rechner
 // @namespace    Apo & Onur
 // @version      26.0
 // @description  Mitarbeiter-Kapazitätsrechner (V26.0: Fix Header-Position/Zeitleiste, Schicht-Zeitleiste, mit/ohne Pause, Schwellenwert ohne Limit)
 // @author       Apo & Onur
-// @match        https://bizboard.post.ch/panel*
+// @match        https://bizboard.post.ch/panel?panelId=verzollung&secret=1234
 // @grant        none
 // @run-at       document-end
-// @updateURL    https://github.com/Bira8952/Add-on-BizBord-PVZ1/raw/refs/heads/main/bizboard.user.js
-// @downloadURL  https://github.com/Bira8952/Add-on-BizBord-PVZ1/raw/refs/heads/main/bizboard.user.js
 // ==/UserScript==
 
 (function() {
